@@ -31,15 +31,15 @@
   },
   {
     "id": 6,
-    "title": "1 TL",
-    "price": 0.12,
-    "image": "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+    "title": "Bilgisayar",
+    "price": 150,
+    "image": "https://www.giloshop.com/media/catalog/product/cache/c1c27d1a455ff29a5dbcf79215d5cda9/h/p/hp_290_g4_desktop_pc_intel_core_i3_10th_gen_4gb_ddr4_ram_1tb_hdd.jpg  "
   },
   {
     "id": 7,
-    "title": "100 TL",
-    "price": 12.40,
-    "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+    "title": "Saray",
+    "price": 350000000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oQKa4khblDofplL_A2qTGRyCjCrC3xKO3w&usqp=CAU"
   },
   {
     "id": 8,
@@ -55,9 +55,9 @@
   },
   {
     "id": 10,
-    "title": "Elmas",
+    "title": "Elmas Yüzük",
     "price": 157878777,
-    "image": "https://cdn.picpng.com/diamond/diamond-clipart-40033.png"
+    "image": "https://i.pinimg.com/474x/15/23/20/152320177946ef7ccda4af8095bf8b9d--ruby-engagement-rings-mother-rings.jpg"
   },
   {
     "id": 11,
@@ -67,8 +67,8 @@
   },
   {
     "id": 12,
-    "title": "Ekmek",
-    "price": 0.1,
-    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2.jpg"
+    "title": "Stadyum",
+    "price": 10000000,
+    "image": "https://evermotion.org/files/newsletter/210216/gallery_06.jpg"
   }
 ]
